@@ -42014,7 +42014,14 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 59px;
+    min-height: 98px;
+  }
+
+  .u-footer .u-layout-wrap-1 {
+    margin-top: 4px;
+    margin-bottom: 3px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-footer .u-text-1 {

@@ -40896,7 +40896,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-table-alt-custom-color-1 tr:nth-child(even)
         {
             color: #ffffff;
-            background-color: #010159;
+            background-color: #000d39;
         }
 
         .u-input.u-custom-color-1,
@@ -40905,7 +40905,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-custom-color-1[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: #010159 !important;
+            background-color: #000d39 !important;
         }
 
         .u-button-style.u-custom-color-1:hover,
@@ -40946,11 +40946,11 @@ a.u-link.u-text-hover-grey-90:hover {
         input.u-field-input.u-field-input.u-active-custom-color-1:checked
         {
             color: #ffffff !important;
-            background-color: #010159 !important;
+            background-color: #000d39 !important;
         }
 
         a.u-link.u-hover-custom-color-1:hover {
-            color: #010159 !important;
+            color: #000d39 !important;
         }
 
         

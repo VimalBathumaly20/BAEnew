@@ -40895,8 +40895,8 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-container-layout.u-container-layout.u-custom-color-1:before,
         .u-table-alt-custom-color-1 tr:nth-child(even)
         {
-            color: #ffffff;
-            background-color: #000d39;
+            color: #ffffff !important;
+            background-color: #000d39 !important;
         }
 
         .u-input.u-custom-color-1,
